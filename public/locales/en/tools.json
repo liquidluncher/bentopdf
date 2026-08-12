@@ -238,6 +238,10 @@
     "name": "Remove Annotations",
     "subtitle": "Strip comments, highlights, and links."
   },
+  "editHyperlinks": {
+    "name": "Edit Hyperlinks",
+    "subtitle": "Find and replace hyperlink URLs and set the default zoom level."
+  },
   "pdfFormFiller": {
     "name": "PDF Form Filler",
     "subtitle": "Fill in forms directly in the browser. Also supports XFA forms.",

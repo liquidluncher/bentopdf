@@ -42,6 +42,7 @@ export const singlePdfLoadTools = [
   'sanitize-pdf',
   'remove-restrictions',
   'bookmark-pdf',
+  'edit-hyperlinks',
 ];
 
 export const simpleTools = [
