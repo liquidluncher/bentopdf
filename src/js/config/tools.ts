@@ -97,6 +97,13 @@ const baseCategories = [
         subtitle: 'Add, edit, import, delete and extract PDF bookmarks.',
       },
       {
+        href: import.meta.env.BASE_URL + 'edit-hyperlinks.html',
+        name: 'Edit Hyperlinks',
+        icon: 'ph-link-simple',
+        subtitle:
+          'Find & replace hyperlink URLs and set the default open zoom level.',
+      },
+      {
         href: import.meta.env.BASE_URL + 'table-of-contents.html',
         name: 'Table of Contents',
         icon: 'ph-list',
